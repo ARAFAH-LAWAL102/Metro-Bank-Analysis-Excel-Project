@@ -42,14 +42,10 @@ The goal is to identify operational inefficiencies, customer retention challenge
 ---
 
 ## Analysis & Methodology
-- **SQL:** Data extraction, joins, aggregations, and trend calculations.
-- **Excel / Power BI:** Visualization, KPI dashboards, and storytelling.
-- **Metrics Used:**
-  - Revenue, profit, and margin per branch
-  - Customer growth/decline and retention
-  - Complaint resolution rate and backlog
-  - Fraud cases and high-risk segments
-  - Transaction volumes and channel usage
+ **Excel Tools:** Power Query, PivotTables, charts, Power Pivot measures.  
+- **Metrics:** Revenue/profit/margin, customer growth/retention, complaint resolution, fraud cases, transaction volume & channels.  
+- **Workflow:** Clean → Pivot → Measure → Visualize dashboards.
+
 
 ---
 
