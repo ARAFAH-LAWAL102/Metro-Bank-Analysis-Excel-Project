@@ -50,6 +50,27 @@ The goal is to identify operational inefficiencies, customer retention challenge
 ---
 
 ## Key Findings
+## Customer Analysis
+![dashboard](https://github.com/ARAFAH-LAWAL102/Metro-Bank-Analysis-Excel-Project/blob/main/Metro%20bank%20Customer%20db.png)
+
+## Customer Insights
+
+- **Customer Base Decline:** Total customers dropped **51%** vs last year, with average income down **18%**, indicating financial and retention concerns.  
+- **Tenure & Loyalty:** Average tenure is **5 years**, with **32%** loyal (5–7 yrs) and **22%** very loyal (8–10 yrs).  
+- **Demographics:** Average age **46 years**, with a stable gender split (**51% Female / 49% Male**).  
+- **High-Value Segments:** **Private segment** has the highest average income (**$118K**), while Corporate is the lowest.  
+- **Geography & Generation:** Most customers are in the **South region**; **Gen X** and **Boomers** hold highest of customers count with **Gen Z** the least.  
+- **Occupation & Income Bracket:** Majority are **Engineers, Retired, or Teachers**, with **Traders** being the least represented.  
+
+## Recommendations
+
+- **Customer Retention:** Implement targeted retention programs for high-value and at-risk customers to address the 51% decline.  
+- **Financial Incentives:** Offer personalized promotions or loyalty rewards for segments with declining average income to boost engagement.  
+- **Focus on High-Value Segments:** Prioritize **Private segment** and **Gen X/Boomers** for premium services and investment products.  
+- **Regional Strategy:** Strengthen presence and marketing efforts in the **South region**, where most customers are located.  
+- **Youth Engagement:** Develop tailored products and campaigns for **Gen Z** to grow future high-value customers.  
+- **Occupation-Specific Solutions:** Create specialized services for underrepresented occupations (e.g., **Traders**) to diversify the customer base.
+
 
 - **Customer Base:** Decline in customers (-51%) and accounts (-44%), with premium and retail segments most valuable.
 - **Accounts & Transactions:** Savings accounts most used (38%), total transaction volume/value declined 36–38%, low credit card usage (21%).
