@@ -6,7 +6,7 @@
 
 ## Project Overview.
 
-This project provides a **comprehensive analysis of Metro Bank** across customers, accounts, transactions, branch operations, and complaints & risk. The analysis was conducted entirely in **Excel**.  
+This project provides a **comprehensive analysis of Metro Bank** across customers, accounts, transactions, branch operations, and complaints & risk, aiming to improve customer retention, enhance operational efficiency and reduce risk exposure. The analysis was conducted entirely in **Excel**.  
 
 ## Project Objectives
 - Analyze customer demographics, loyalty, and income segments.
@@ -62,9 +62,9 @@ This Dataset consists of 5 tables across each dimensions:
 
 ## Account Analysis
 ![d](https://github.com/ARAFAH-LAWAL102/Metro-Bank-Analysis-Excel-Project/blob/main/Metro%20bank%20Account%20db.png)
-## Account Insights and Action# Accounts Dashboard – Insights & Actions
+## Account Insights & Actions
 
-**1. Overall Decline vs LY**:Total accounts decreased **44%**, leading to a **43% decline in total balances**. Some customers hold multiple accounts.  
+**1. Overall Decline vs LY**:Total accounts decreased **44%**, leading to a **43% decline in total balances**. **237** customers hold multiple accounts.  
 **Action:** Identify inactive accounts and consolidate multiple accounts per customer. Launch **targeted deposit campaigns** to increase balances.
 
 **2. Credit Score vs Loan Staus:** Approved loans dropped **100% in 2025**. Rejected customers had an average score of **592**, while approved customers averaged **581**, showing inconsistencies.  
@@ -79,6 +79,27 @@ This Dataset consists of 5 tables across each dimensions:
 **5. Loan Risk** : Retailers borrowed the highest loans (**$25M**), increasing exposure to risk.  
 **Action:** **Investigate segment repayment capacity** and enforce stricter lending requirements for high-risk borrowers.
 
+## Transaction Analysis
+![k](https://github.com/ARAFAH-LAWAL102/Metro-Bank-Analysis-Excel-Project/blob/main/Metro%20bank%20Transaction%20db.png)
+## Transaction Insights and Actions
+  
+
+**1. Transaction Volume Decline**: Total transaction volume dropped **36%**, leading to a transaction value of **$25.1M**, a **38% decline** compared to last year. Average transaction amount is **$5,013**.  
+**Action:** Promote digital payment adoption by offering **incentives, rewards, or simplified payment options** to increase usage and engagement.
+
+  
+**2. Credit Card Usage**: Only **21% of payments** are by credit card users, while **79%** are non-credit card users, indicating a sharp decline in credit card usage.  
+**Action:** Encourage credit card usage by offering **rewards, cashback, or smoother payment options**.
+
+
+**3. Money Flow Imbalance**: Withdrawals (**$6.39M**) exceed deposits (**$6.20M**), showing more money flowing out than in.  
+**Action:** Implement **strategies to increase deposits**, such as incentivized savings programs.
+ 
+**4. Transaction Channels**: POS is the most used channel, while online transactions are the lowest.  
+**Action:** Improve **online transaction UX** to enhance smoothness and encourage adoption.
+
+**5. Top Merchants**:Airbnb and Apple have the most transactions; Walmart and Amazon have the least.  
+**Action:** Expand **merchant partnerships** with top-performing merchants and key retailers like Walmart and Amazon to increase transaction volume.
 
 - 
 
