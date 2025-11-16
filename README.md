@@ -4,8 +4,9 @@
 
 ---
 
-## Business Problem
-Metro Bank is experiencing declining customer activity, rising operational costs, and inconsistent branch performance. Management wants a full end-to-end analysis to understand what is happening across the business and identify where interventions are needed.
+## Project Overview.
+
+This project provides a **comprehensive analysis of Metro Bank** across customers, accounts, transactions, branch operations, and complaints & risk. The analysis was conducted entirely in **Excel**.  
 
 ## Project Objectives
 - Analyze customer demographics, loyalty, and income segments.
@@ -59,13 +60,27 @@ This Dataset consists of 5 tables across each dimensions:
 **4. Occupation & Income Distribution:** Majority are **Engineers, Retired, or Teachers**, with Traders least represented.  
 **Action:**  Develop **profession-specific products**: salary loans and educational savings for teachers, retirement bundles for retirees, and investment portfolios for engineers to improve engagement and revenue.  
 
+## Account Analysis
+![d](https://github.com/ARAFAH-LAWAL102/Metro-Bank-Analysis-Excel-Project/blob/main/Metro%20bank%20Account%20db.png)
+## Account Insights and Action# Accounts Dashboard – Insights & Actions
 
-- **Customer Retention:** Implement targeted retention programs for high-value and at-risk customers to address the 51% decline.  
-- **Financial Incentives:** Offer personalized promotions or loyalty rewards for segments with declining average income to boost engagement.  
-- **Focus on High-Value Segments:** Prioritize **Private segment** and **Gen X/Boomers** for premium services and investment products.  
-- **Regional Strategy:** Strengthen presence and marketing efforts in the **South region**, where most customers are located.  
-- **Youth Engagement:** Develop tailored products and campaigns for **Gen Z** to grow future high-value customers.  
-- **Occupation-Specific Solutions:** Create specialized services for underrepresented occupations (e.g., **Traders**) to diversify the customer base.
+**1. Overall Decline vs LY**:Total accounts decreased **44%**, leading to a **43% decline in total balances**. Some customers hold multiple accounts.  
+**Action:** Identify inactive accounts and consolidate multiple accounts per customer. Launch **targeted deposit campaigns** to increase balances.
+
+**2. Credit Score vs Loan Staus:** Approved loans dropped **100% in 2025**. Rejected customers had an average score of **592**, while approved customers averaged **581**, showing inconsistencies.  
+**Action:** **Review and standardize loan approval criteria** to ensure credit scores accurately reflect risk.
+
+**3. Most Used Product** :**Savings accounts** make up **38% of total accounts**, indicating financial stability and preference.  
+**Action:** Promote **premium savings products** or add **rewards/incentives** to encourage larger balances and engagement.
+
+**4. High Balance Segment**: Gen X holds the **highest balances (31%)**, followed by Boomers. Private segment holds the **highest average balance ($275K)**.  
+**Action:** Offer **targeted incentives** to underrepresented segments, especially Gen Z and Corporate customers, to grow their balances.
+
+**5. Loan Risk** : Retailers borrowed the highest loans (**$25M**), increasing exposure to risk.  
+**Action:** **Investigate segment repayment capacity** and enforce stricter lending requirements for high-risk borrowers.
+
+
+- 
 
 
 - **Customer Base:** Decline in customers (-51%) and accounts (-44%), with premium and retail segments most valuable.
