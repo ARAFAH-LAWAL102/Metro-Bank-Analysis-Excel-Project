@@ -4,19 +4,19 @@
 
 ---
 
-## Project Overview
-This project analyzes Metro Bank’s performance across multiple dimensions:
+## Business Problem
+Metro Bank is experiencing declining customer activity, rising operational costs, and inconsistent branch performance. Management wants a full end-to-end analysis to understand what is happening across the business and identify where interventions are needed.
 
-- **Customer Base:** Demographics, loyalty, income, accounts, and high-value segments.
-- **Accounts & Transactions:** Total accounts, balances, deposits, loans, transaction volumes, and payment channels.
-- **Branch Operations:** Revenue, profit, costs, staff efficiency, and regional performance.
-- **Complaints & Risk:** Complaint trends, resolution efficiency, fraud cases, and high-risk segments.
-
-The goal is to identify operational inefficiencies, customer retention challenges, and opportunities for revenue growth.
-
+## Project Objectives
+- Analyze customer demographics, loyalty, and income segments.
+- Assess account and transaction trends to identify opportunities and risks.
+- Evaluate branch performance and staff efficiency.
+- Monitor complaints and fraud patterns to mitigate risk.
+- Provide actionable recommendations for operational and strategic improvements.
 ---
 
 ## Data Description
+This Dataset consists of 5 tables across each dimensions:
 - **Customer Data:** Age, gender, income, occupation, loyalty, customer segment,region.
 - **Account Data:** Account types (Savings, Checking, Credit Card, Loans), balances, and trends.
 - **Transaction Data:** Volume, value, channels (POS, ATM, Online), and top merchants.
@@ -27,17 +27,9 @@ The goal is to identify operational inefficiencies, customer retention challenge
 **Data Preparation:**
 - Cleaned missing values, duplicates, and inconsistencies in the Power Query.
 - Transformed dates and numeric fields for analysis.
+- Created data model in power pivot for easy connection across the tables.
 - Created Calculated columns for age group,income bracket,tenure,balance bracket,and risk level.
 - Aggregated and merged datasets for multidimensional insights.
-
----
-
-## Project Objectives
-- Analyze customer demographics, loyalty, and income segments.
-- Assess account and transaction trends to identify opportunities and risks.
-- Evaluate branch performance and staff efficiency.
-- Monitor complaints and fraud patterns to mitigate risk.
-- Provide actionable recommendations for operational and strategic improvements.
 
 ---
 
@@ -53,16 +45,20 @@ The goal is to identify operational inefficiencies, customer retention challenge
 ## Customer Analysis
 ![dashboard](https://github.com/ARAFAH-LAWAL102/Metro-Bank-Analysis-Excel-Project/blob/main/Metro%20bank%20Customer%20db.png)
 
-## Customer Insights
+## Customer Insights & Actions
 
-- **Customer Base Decline:** Total customers dropped **51%** vs last year, with average income down **18%**, indicating financial and retention concerns.  
-- **Tenure & Loyalty:** Average tenure is **5 years**, with **32%** loyal (5–7 yrs) and **22%** very loyal (8–10 yrs).  
-- **Demographics:** Average age **46 years**, with a stable gender split (**51% Female / 49% Male**).  
-- **High-Value Segments:** **Private segment** has the highest average income (**$118K**), while Corporate is the lowest.  
-- **Geography & Generation:** Most customers are in the **South region**; **Gen X** and **Boomers** hold highest of customers count with **Gen Z** the least.  
-- **Occupation & Income Bracket:** Majority are **Engineers, Retired, or Teachers**, with **Traders** being the least represented.  
+**1. Customer Base Decline & Loyalty:** Total customers dropped **51%**, average income down **18%**, but **54% are loyal** (tenure 5–10 years).  
+**Action:**  Offer **personalized loyalty rewards** to high-value, long-term customers, such as fee waivers, cashback, or priority service, to reduce churn and retain revenue. 
 
-## Recommendations
+**2. Demographics & High-Value Segments:** Average age **46**, gender balanced (**51% F / 49% M**). The **Private segment** has the highest income (**$118K**).  
+**Action:**  Introduce **tailored savings and investment products** for Private customers, such as high-interest accounts or wealth management bundles, to increase future revenue.  
+
+**3. Geography & Generational Spread:** Most customers are in the **South region**, dominated by Gen X and Boomers; **Gen Z is underrepresented**.  
+**Action:**  Launch **digital-first accounts** and targeted social campaigns for Gen Z, and expand marketing efforts in **West and North regions** to grow the customer base.  
+
+**4. Occupation & Income Distribution:** Majority are **Engineers, Retired, or Teachers**, with Traders least represented.  
+**Action:**  Develop **profession-specific products**: salary loans and educational savings for teachers, retirement bundles for retirees, and investment portfolios for engineers to improve engagement and revenue.  
+
 
 - **Customer Retention:** Implement targeted retention programs for high-value and at-risk customers to address the 51% decline.  
 - **Financial Incentives:** Offer personalized promotions or loyalty rewards for segments with declining average income to boost engagement.  
