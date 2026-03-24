@@ -101,8 +101,8 @@ This Dataset consists of 5 tables across each dimensions:
 **5. Top Merchants**:Airbnb and Apple have the most transactions; Walmart and Amazon have the least.  
 **Action:** Expand **merchant partnerships** with top-performing merchants and key retailers like Walmart and Amazon to increase transaction volume.
 
-## Complaints and Risk Analysis
-[d]![
+## Branch Operational Analysis
+![d](https://github.com/ARAFAH-LAWAL102/Metro-Bank-Analysis-Excel-Project/blob/74e007d271a2affa25a44b03cd21c51aa53d8ac7/Metro%20bank%20Branch%20db.png)
 
 
 - **Customer Base:** Decline in customers (-51%) and accounts (-44%), with premium and retail segments most valuable.
