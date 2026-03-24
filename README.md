@@ -101,7 +101,8 @@ This Dataset consists of 5 tables across each dimensions:
 **5. Top Merchants**:Airbnb and Apple have the most transactions; Walmart and Amazon have the least.  
 **Action:** Expand **merchant partnerships** with top-performing merchants and key retailers like Walmart and Amazon to increase transaction volume.
 
-- 
+## Complaints and Risk Analysis
+[d]![
 
 
 - **Customer Base:** Decline in customers (-51%) and accounts (-44%), with premium and retail segments most valuable.
@@ -122,18 +123,5 @@ This Dataset consists of 5 tables across each dimensions:
 
 ---
 
-## Dashboard & Visualization
-- Power BI dashboards include:
-  - Customer demographics and loyalty
-  - Branch revenue, profit, and staff efficiency
-  - Transaction volumes, channels, and top merchants
-  - Complaints and fraud trends
-- Features dynamic filters for region, branch, customer segment, and time.
 
----
-
-## How to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YourUsername/metro-bank-analysis.git
 
