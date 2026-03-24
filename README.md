@@ -48,80 +48,138 @@ This Dataset consists of 5 tables across each dimensions:
 
 ## Customer Insights & Actions
 
-**1. Customer Base Decline & Loyalty:** Total customers dropped **51%**, average income down **18%**, but **54% are loyal** (tenure 5–10 years).  
-**Action:**  Offer **personalized loyalty rewards** to high-value, long-term customers, such as fee waivers, cashback, or priority service, to reduce churn and retain revenue. 
+**1. Customer Base Decline & Loyalty**
+- **Insight:** Total customers dropped 51% and average income declined 18%, yet 54% remain loyal (tenure 5–10 years). This signals a shrinking customer base but highlights a core group of high-value, long-term clients at risk if not engaged.
+- **Action:** Offer personalized loyalty rewards to high-value, long-term customers, such as fee waivers, cashback, or priority service, to reduce churn and retain revenue.
 
-**2. Demographics & High-Value Segments:** Average age **46**, gender balanced (**51% F / 49% M**). The **Private segment** has the highest income (**$118K**).  
-**Action:**  Introduce **tailored savings and investment products** for Private customers, such as high-interest accounts or wealth management bundles, to increase future revenue.  
+**2. Demographics & High-Value Segments**
+- **Insight:** Average customer age is 46 with balanced gender (51% F / 49% M). The Private segment earns the highest income ($118K), representing a strong revenue opportunity if effectively targeted.
+- **Action:** Introduce tailored savings and investment products for Private customers, such as high-interest accounts or wealth management bundles, to increase future revenue.
 
-**3. Geography & Generational Spread:** Most customers are in the **South region**, dominated by Gen X and Boomers; **Gen Z is underrepresented**.  
-**Action:**  Launch **digital-first accounts** and targeted social campaigns for Gen Z, and expand marketing efforts in **West and North regions** to grow the customer base.  
+**3. Geography & Generational Spread**
+- **Insight:** Most customers are in the South region, dominated by Gen X and Boomers, while Gen Z is underrepresented. This limits long-term growth and adoption of digital services.
+- **Action:** Launch digital-first accounts and targeted social campaigns for Gen Z, and expand marketing efforts in West and North regions to grow the customer base.
 
-**4. Occupation & Income Distribution:** Majority are **Engineers, Retired, or Teachers**, with Traders least represented.  
-**Action:**  Develop **profession-specific products**: salary loans and educational savings for teachers, retirement bundles for retirees, and investment portfolios for engineers to improve engagement and revenue.  
+**4. Occupation & Income Distribution**
+- **Insight:** Majority of customers are Engineers, Retired, or Teachers, while Traders are least represented. Misaligned products may reduce engagement and revenue potential.
+- **Action:** Develop profession-specific products: salary loans and educational savings for teachers, retirement bundles for retirees, and investment portfolios for engineers to improve engagement and revenue.
 
 ## Account Analysis
 ![d](https://github.com/ARAFAH-LAWAL102/Metro-Bank-Analysis-Excel-Project/blob/main/Metro%20bank%20Account%20db.png)
 ## Account Insights & Actions
 
-**1. Overall Decline vs LY**:Total accounts decreased **44%**, leading to a **43% decline in total balances**. **237** customers hold multiple accounts.  
-**Action:** Identify inactive accounts and consolidate multiple accounts per customer. Launch **targeted deposit campaigns** to increase balances.
+**1. Overall Decline vs LY**
+- **Insight:** Total accounts decreased 44%, leading to a 43% decline in total balances. Additionally, 237 customers hold multiple accounts. This decline signals reduced engagement and underutilized customer relationships.
+- **Action:** Identify inactive accounts and consolidate multiple accounts per customer. Launch targeted deposit campaigns to increase balances.
 
-**2. Credit Score vs Loan Staus:** Approved loans dropped **100% in 2025**. Rejected customers had an average score of **592**, while approved customers averaged **581**, showing inconsistencies.  
-**Action:** **Review and standardize loan approval criteria** to ensure credit scores accurately reflect risk.
+**2. Credit Score vs Loan Status**
+- **Insight:** Approved loans dropped 100% in 2025. Rejected customers had an average score of 592, while approved customers averaged 581, showing inconsistencies. This exposes gaps in risk assessment and potential financial misalignment.
+- **Action:** Review and standardize loan approval criteria to ensure credit scores accurately reflect risk.
 
-**3. Most Used Product** :**Savings accounts** make up **38% of total accounts**, indicating financial stability and preference.  
-**Action:** Promote **premium savings products** or add **rewards/incentives** to encourage larger balances and engagement.
+**3. Most Used Product**
+- **Insight:** Savings accounts make up 38% of total accounts, indicating customer preference and financial stability. This highlights opportunities to increase engagement through product upgrades.
+- **Action:** Promote premium savings products or add rewards/incentives to encourage larger balances and engagement.
 
-**4. High Balance Segment**: Gen X holds the **highest balances (31%)**, followed by Boomers. Private segment holds the **highest average balance ($275K)**.  
-**Action:** Offer **targeted incentives** to underrepresented segments, especially Gen Z and Corporate customers, to grow their balances.
+**4. High Balance Segment**
+- **Insight:** Gen X holds the highest balances (31%), followed by Boomers. The Private segment holds the highest average balance ($275K). Underrepresented segments like Gen Z and Corporate customers represent untapped growth potential.
+- **Action:** Offer targeted incentives to underrepresented segments to grow their balances.
 
-**5. Loan Risk** : Retailers borrowed the highest loans (**$25M**), increasing exposure to risk.  
-**Action:** **Investigate segment repayment capacity** and enforce stricter lending requirements for high-risk borrowers.
+**5. Loan Risk**
+- **Insight:** Retailers borrowed the highest loans ($25M), increasing exposure to default risk. This highlights the need for stronger monitoring of high-risk segments.
+- **Action:** Investigate segment repayment capacity and enforce stricter lending requirements for high-risk borrowers.
 
 ## Transaction Analysis
 ![k](https://github.com/ARAFAH-LAWAL102/Metro-Bank-Analysis-Excel-Project/blob/main/Metro%20bank%20Transaction%20db.png)
 ## Transaction Insights and Actions
-  
 
-**1. Transaction Volume Decline**: Total transaction volume dropped **36%**, leading to a transaction value of **$25.1M**, a **38% decline** compared to last year. Average transaction amount is **$5,013**.  
-**Action:** Promote digital payment adoption by offering **incentives, rewards, or simplified payment options** to increase usage and engagement.
+**1. Transaction Volume Decline**
+- **Insight:** Total transaction volume dropped 36%, resulting in $25.1M total value (38% decline YoY) and an average transaction of $5,013. This decline signals reduced customer engagement and potential revenue loss.
+- **Action:** Promote digital payment adoption by offering incentives, rewards, or simplified payment options to increase usage and engagement.
 
-  
-**2. Credit Card Usage**: Only **21% of payments** are by credit card users, while **79%** are non-credit card users, indicating a sharp decline in credit card usage.  
-**Action:** Encourage credit card usage by offering **rewards, cashback, or smoother payment options**.
+**2. Credit Card Usage**
+- **Insight:** Only 21% of payments are by credit card users while 79% are non-credit card users, indicating sharp decline in adoption. This shows missed opportunities for fee-based revenue and limits customer convenience.
+- **Action:** Encourage credit card usage by offering rewards, cashback, or smoother payment options.
 
+**3. Money Flow Imbalance**
+- **Insight:** Withdrawals ($6.39M) exceed deposits ($6.20M), indicating a net outflow of funds. This imbalance can reduce liquidity and affect interest income.
+- **Action:** Implement strategies to increase deposits, such as incentivized savings programs.
 
-**3. Money Flow Imbalance**: Withdrawals (**$6.39M**) exceed deposits (**$6.20M**), showing more money flowing out than in.  
-**Action:** Implement **strategies to increase deposits**, such as incentivized savings programs.
- 
-**4. Transaction Channels**: POS is the most used channel, while online transactions are the lowest.  
-**Action:** Improve **online transaction UX** to enhance smoothness and encourage adoption.
+**4. Transaction Channels**
+- **Insight:** POS is the most used channel, while online transactions are the lowest, highlighting underutilization of digital channels and potential friction in customer experience.
+- **Action:** Improve online transaction UX to enhance smoothness and encourage adoption.
 
-**5. Top Merchants**:Airbnb and Apple have the most transactions; Walmart and Amazon have the least.  
-**Action:** Expand **merchant partnerships** with top-performing merchants and key retailers like Walmart and Amazon to increase transaction volume.
+**5. Top Merchants**
+- **Insight:** Airbnb and Apple dominate transaction volume, whereas Walmart and Amazon lag behind, signaling uneven merchant engagement and missed opportunities in key retail segments.
+- **Action:** Expand merchant partnerships with top-performing merchants and key retailers like Walmart and Amazon to increase transaction volume.
+
 
 ## Branch Operational Analysis
 ![d](https://github.com/ARAFAH-LAWAL102/Metro-Bank-Analysis-Excel-Project/blob/74e007d271a2affa25a44b03cd21c51aa53d8ac7/Metro%20bank%20Branch%20db.png)
+## Branch Performance Insights and Actions
 
 
-- **Customer Base:** Decline in customers (-51%) and accounts (-44%), with premium and retail segments most valuable.
-- **Accounts & Transactions:** Savings accounts most used (38%), total transaction volume/value declined 36–38%, low credit card usage (21%).
-- **Branch Performance:** 20 branches generated $59.42M revenue and $38.25M profit (64% margin); Lisaville and South Region lead performance.
-- **Staff Efficiency:** No clear correlation between staff count and revenue; fewer-staff branches often perform better.
-- **Complaints & Risk:** Complaints decreased 28%, but resolution is slow (~30 days); 54 active fraud cases mainly in checking, savings, and credit cards.
-- **High-Value Insights:** Gen X and Private customers hold highest balances; retail customers drive loan exposure.
+**1. Uneven Profitability**
+- **Insight:** Total profit across 20 branches is $38.25M, but high operating costs in some locations are eroding margins. South region generates 40% of revenue ($23.48M), while West Loganmouth loses $652K and Javiertown has the highest operating costs ($1.97M). North region achieves the highest efficiency with a 76% profit margin. This shows that branch performance is highly variable and operational inefficiencies are costing money.
+- **Action:** Downsize or close underperforming branches (West Loganmouth, Javiertown) to stop losses, and apply North region's efficiency model to other locations.
+
+**2. Staff vs Performance**
+- **Insight:** More staff does not guarantee higher revenue; small, lean teams outperform larger teams. Misaligned staffing increases payroll overhead and reduces profitability.
+- **Action:** Reallocate excess staff from low-performing branches to high-performing branches (South region) instead of hiring new personnel.
+
+**3. Revenue Growth Opportunity**
+- **Insight:** Investing in high-performing branches like South with tech and marketing upgrades could increase total revenue by an estimated $5M. Efficient operations and strategic investments amplify returns.
+- **Action:** Focus capital and resources on the South region to scale revenue, leveraging its 40% share of total income.
+
+**4. Cost Optimization**
+- **Insight:** Closing or fixing the bottom 2 branches and adopting lean team models can reduce yearly losses by $1.1M+ and overhead by 15%.
+- **Action:** Implement cost control measures, optimize payroll, and standardize operational best practices across all branches.
+
+  
+
+## Customoer Complaints and Risk Analysis
+![d](https://github.com/ARAFAH-LAWAL102/Metro-Bank-Analysis-Excel-Project/blob/96229d94ff5cf3cb890df25f461c4a9c8748bc58/Metro%20Bank%20Risk%20db.png)
+
+## Complaints Key Insights & Actions
+
+**1.Backlog Bottleneck**
+- **Insight:** 172 cases "In Progress," averaging 34 days to resolve; "Charges Disputes" lead with 184 cases. Delays on high-friction complaints risk customer churn.
+- **Action:** Implement an automated triage system to resolve simple disputes within 48 hours, freeing senior agents for complex cases.
+
+**2.High-Value Retention Risk**
+- **Insight:** Premium earners generate 242 complaints, Retail customers 58% of total complaints. The most profitable segment is the most dissatisfied.
+- **Action:** Establish a Priority Resolution Lane for Premium/Private segments with a 15-day SLA.
+
+**3.Regional Hot Spots**
+- **Insight:** South region accounts for 226 complaints, indicating branch-level operational or technical issues.
+- **Action:** Conduct a South-region branch audit to identify root causes (staff, process, or infrastructure).
+
+**4.Fraud & Product Vulnerability**
+- **Insight:** 142 fraud cases, primarily in Checking Accounts (36 cases). Peaks occur in April and November; resolution averages 28 days—too slow to protect assets.
+- **Action:** Deploy Predictive Fraud Alerts for Checking and Credit Card accounts during peak months to prevent losses proactively. 
+---
+## 🔹 Key Challenges Faced
+
+- **Data Quality Issues:** Missing values, duplicates, and inconsistencies in the datasets required careful cleaning and validation.  
+- **Complex Data Relationships:** Linking multiple tables across dimensions (Customer, Account, Transaction, Branch, Complaints & Risk) required thoughtful data modeling.  
+- **Longitudinal Analysis:** Six years of historical data introduced inconsistencies and required normalization for accurate trends.  
+- **Actionable Storytelling:** Translating raw data into insights that tell a business story required iterative dashboards and visualization.
 
 ---
 
-## Recommendations
-- **Customer Strategy:** Retain premium and high-balance customers; improve acquisition.
-- **Branch & Staff Efficiency:** Optimize staffing, replicate high-efficiency branches, reduce operational costs.
-- **Transaction & Product Strategy:** Promote digital payments, increase credit card adoption, incentivize savings.
-- **Risk & Complaints Management:** Enhance fraud controls, reduce complaint resolution times, prioritize high-risk segments.
-- **Strategic Growth:** Leverage top merchants and highly engaged customers for targeted campaigns.
+## 🔹 Limitations
+
+- **Data Completeness:** Some tables contain missing or inconsistent entries, which could slightly affect accuracy.  
+- **Time Frame:** Analysis covers six years, providing a strong longitudinal view, but older data may be less reliable.  
+- **Assumptions:** Calculated fields rely on assumptions that may not fully reflect real-world complexity.  
+- **External Factors:** Market conditions, competitor actions, and regulatory changes are not captured, which could influence outcomes.
 
 ---
 
+## Conclusion & Recommendations
 
+- **Customer Retention:** Focus on high-value, loyal customers with personalized programs to reduce churn.  
+- **Revenue Growth:** Target underrepresented segments (Gen Z, Corporate) and invest in high-performing branches to scale profits.  
+- **Operational Efficiency:** Optimize or close low-performing branches and replicate best practices from top-performing locations.  
+- **Risk Management:** Standardize loan approvals, implement predictive fraud alerts, and prioritize resolution for premium customers.  
+- **Future Work:** Incorporate competitor data, macroeconomic indicators, and multi-year trends to strengthen insights and predictive capabilities.
 
